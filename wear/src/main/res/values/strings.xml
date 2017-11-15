@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WearableTest-MLock</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="gyroExist">Connecting Sensor data</string>
+    <string name="gyroX">Gyroscope X:</string>
+    <string name="gyroY">Gyroscope Y:</string>
+    <string name="gyroZ">Gyroscope Z:</string>
+    <string name="ms">millisecond:</string>
+</resources>
